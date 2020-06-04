@@ -1,0 +1,1280 @@
+{
+	"channels": [
+		{
+			"img": "Ziggo",
+			"channel": "Ziggo"
+		},
+		{
+			"img": "Country Roads",
+			"channel": "Country Roads"
+		},
+		{
+			"img": "https://www.npo3fm.nl/images/2020/05/04_de83ad7fdb_3fm-logo-2020.jpeg",
+			"channel": "NPO 3FM"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/14/E%21_HD_logo.jpg",
+			"channel": "E! HD"
+		},
+		{
+			"img": "https://www.decibel.nl/wp-content/uploads/2020/05/Programmering.png",
+			"channel": "Radio Decibel"
+		},
+		{
+			"img": "Piratenplaten",
+			"channel": "Piratenplaten"
+		},
+		{
+			"img": "Op De Koffie",
+			"channel": "Op De Koffie"
+		},
+		{
+			"img": "https://mms.businesswire.com/media/20160222006361/nl/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",
+			"channel": "Love Nature HD"
+		},
+		{
+			"img": "https://dlprizi2qtumd.cloudfront.net/images/stations/radio-rucphen-fm-cover.png",
+			"channel": "Radio Rucphen"
+		},
+		{
+			"img": "60s&70s Fever",
+			"channel": "60s&70s Fever"
+		},
+		{
+			"img": "noImg",
+			"channel": "Ziggo Sport Golf HD"
+		},
+		{
+			"img": "Gouwe Ouwe",
+			"channel": "Gouwe Ouwe"
+		},
+		{
+			"img": "https://media.nhnieuws.nl/cache/i/347000/images/347083.w2000.r3-1.163c932.q90.jpg",
+			"channel": "NH Nieuws"
+		},
+		{
+			"img": "MyZen HD",
+			"channel": "MyZen HD"
+		},
+		{
+			"img": "Pure Focus",
+			"channel": "Pure Focus"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/1200px-Spike_logo_2015.svg.png",
+			"channel": "Spike HD"
+		},
+		{
+			"img": "https://skpnet.nl/media/images/single_logo-discovery-world.png.450x900_q85.png",
+			"channel": "Discovery World"
+		},
+		{
+			"img": "Q-Music",
+			"channel": "Q-Music"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vice_on_TV_logo.svg/1200px-Vice_on_TV_logo.svg.png",
+			"channel": "VICEtv"
+		},
+		{
+			"img": "BBC Two HD",
+			"channel": "BBC Two HD"
+		},
+		{
+			"img": "https://www.radio10.nl/static/media/FacebookShareImage.374703e0.png",
+			"channel": "Radio 10"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/SBS9_2018.png",
+			"channel": "SBS9 HD"
+		},
+		{
+			"img": "Mediaset Italia",
+			"channel": "Mediaset Italia"
+		},
+		{
+			"img": "Radio Continu",
+			"channel": "Radio Continu"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vice_on_TV_logo.svg/1200px-Vice_on_TV_logo.svg.png",
+			"channel": "VICEtv HD"
+		},
+		{
+			"img": "https://areamedia.nl/wp-content/uploads/Revolt-logo.png",
+			"channel": "REVOLT HD"
+		},
+		{
+			"img": "Radio France International",
+			"channel": "Radio France International"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo-3d.png",
+			"channel": "OUTTV HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/E%C3%A9n_logo_2019.svg/1200px-E%C3%A9n_logo_2019.svg.png",
+			"channel": "één HD"
+		},
+		{
+			"img": "https://www.funx.nl/templates/funx/img/opengraph-afbeelding-FunX.jpg",
+			"channel": "FunX"
+		},
+		{
+			"img": "https://www.skyradio.nl/static/media/facebookShareImage.89488910.png",
+			"channel": "Sky Radio"
+		},
+		{
+			"img": "https://www.hevo.nl/media/projecten/omroep_brabant_eindhoven/hevo_teaser_logo_omroep_brabant.png",
+			"channel": "Omroep Brabant"
+		},
+		{
+			"img": "https://static.marcomprocloud.eu/account/54e6f933ca6e54e2083918a8/files/d190ef616c588100ad8767d0ab373eaa.png",
+			"channel": "100% NL"
+		},
+		{
+			"img": "https://l1.nl/static/img/social.png",
+			"channel": "L1 TV"
+		},
+		{
+			"img": "https://yt3.ggpht.com/a/AATXAJyCI3al6iSJQPq0nJ2FEaN90dTngSwX-_Q5JA=s900-c-k-c0xffffffff-no-rj-mo",
+			"channel": "Omrop Fryslân"
+		},
+		{
+			"img": "https://sport-tv-guide.live/images/stations/a1499.png",
+			"channel": "Ziggo Sport"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veronica-Logo.svg/1200px-Veronica-Logo.svg.png",
+			"channel": "Veronica / Disney XD"
+		},
+		{
+			"img": "https://areamedia.nl/wp-content/uploads/Revolt-logo.png",
+			"channel": "REVOLT"
+		},
+		{
+			"img": "https://wesselvanwieren.nl/wp-content/uploads/2016/08/ziggo.jpg",
+			"channel": "Ziggo Zenderoverzicht"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",
+			"channel": "CI"
+		},
+		{
+			"img": "Rock Legends",
+			"channel": "Rock Legends"
+		},
+		{
+			"img": "https://www.omroepflevoland.nl/assets/assets/img/social/ogimage.jpg",
+			"channel": "Radio Flevoland"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BBC_Radio_3.svg/1200px-BBC_Radio_3.svg.png",
+			"channel": "BBC Radio 3"
+		},
+		{
+			"img": "https://www.radiofreak.nl/wp-content/uploads/2016/01/Logo-Radio-Veronica.jpg",
+			"channel": "Radio Veronica"
+		},
+		{
+			"img": "https://www.h19.nl/wp-content/uploads/Sing-Along.jpg",
+			"channel": "Sing-Along"
+		},
+		{
+			"img": "https://media.glassdoor.com/sqll/680296/ziggo-squarelogo-1426679648189.png",
+			"channel": "Ziggo TV"
+		},
+		{
+			"img": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6d/cd/116036/2/c175.png",
+			"channel": "Mini Disco"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/VRT_Radio_1_logo.svg/1200px-VRT_Radio_1_logo.svg.png",
+			"channel": "Radio 1 (VRT)"
+		},
+		{
+			"img": "https://unity-img.tbxapis.com/v0/images/9d29a3723e9925c375478e2c88cac95f/content/5ba25545a6422538793d25e6/ee8196168959152b085c8a73d84e1e89/img.png",
+			"channel": "FOX Sports 3 HD"
+		},
+		{
+			"img": "https://www.communicatiekring.nl/l/library/download/urn:uuid:05271144-acf5-477c-a290-ca025a6dcd72/rtvu.png?scaleType=3&width=600&height=315&ext=.png",
+			"channel": "RTV Utrecht"
+		},
+		{
+			"img": "https://dlprizi2qtumd.cloudfront.net/images/stations/zuidwest-fm-cover.png",
+			"channel": "ZuidWest FM"
+		},
+		{
+			"img": "https://vignette.wikia.nocookie.net/tvfanon6528/images/3/33/RTL_Crime_%282015-.n.v.%29.png",
+			"channel": "RTL Crime HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/BBC_First_Foxtel_logo.svg/1200px-BBC_First_Foxtel_logo.svg.png",
+			"channel": "BBC First"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png",
+			"channel": "Concertzender"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Npo_zappelin_logo_2018.jpg",
+			"channel": "NPO Zappelin extra"
+		},
+		{
+			"img": "Lokale Omroep radio",
+			"channel": "Lokale Omroep radio"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/SBS6-logo-2018.png",
+			"channel": "SBS6 HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RTL_Z_logo_2015.png",
+			"channel": "RTL Z HD"
+		},
+		{
+			"img": "https://iasbh.tmgrup.com.tr/cddaa4/650/344/0/62/612/383?u=https://isbh.tmgrup.com.tr/sbh/2018/07/17/5-milyon-turke-ulasan-atv-avrupaya-yeni-logo-1531842842450.jpeg",
+			"channel": "ATV Avrupa"
+		},
+		{
+			"img": "https://vignette.wikia.nocookie.net/tvfanon6528/images/b/ba/RTL_5_HD_%282009-2012%29.png",
+			"channel": "RTL 5 HD"
+		},
+		{
+			"img": "TV Oranje",
+			"channel": "TV Oranje"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTL_8_Logo.svg/1200px-RTL_8_Logo.svg.png",
+			"channel": "RTL 8 HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",
+			"channel": "CGTN"
+		},
+		{
+			"img": "Zing",
+			"channel": "Zing"
+		},
+		{
+			"img": "Thuisorkest",
+			"channel": "Thuisorkest"
+		},
+		{
+			"img": "TVE",
+			"channel": "TVE"
+		},
+		{
+			"img": "https://images1.persgroep.net/rcs/gRnnzG2Mkw0R2uGqkH59zzB5Psk/diocontent/58799700/_crop/0/0/1580/1292/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9",
+			"channel": "Canvas HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/7/75/NPO_Radio_2_Soul_%26_Jazz_logo.png",
+			"channel": "NPO 2 Soul & Jazz"
+		},
+		{
+			"img": "https://horseandcountry.tv/wp-content/themes/hctv/img/hctv_logo.png",
+			"channel": "Horse & Country TV HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Film1_Spotlight.jpg",
+			"channel": "Film1 Drama HD"
+		},
+		{
+			"img": "https://dlprizi2qtumd.cloudfront.net/images/stations/arrow-classic-rock-cover.png",
+			"channel": "Arrow Classic Rock"
+		},
+		{
+			"img": "https://images.prismic.io/rtlnl/3555b16e-60d7-4aad-ad63-de5c385986c4_logo_landscape_RTL+7.png",
+			"channel": "RTL 7"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png",
+			"channel": "ZDF"
+		},
+		{
+			"img": "https://yt3.ggpht.com/a/AATXAJwHZtbpi6AIzzaqjXOV07kgq7mEwaBsl38TOA=s900-c-k-c0xffffffff-no-rj-mo",
+			"channel": "AT5"
+		},
+		{
+			"img": "DUSK",
+			"channel": "DUSK"
+		},
+		{
+			"img": "Schlagerfest",
+			"channel": "Schlagerfest"
+		},
+		{
+			"img": "noImg",
+			"channel": "BBC Entertainment"
+		},
+		{
+			"img": "https://disneyplusser.nl/wp-content/uploads/2019/10/disney-channel-logo.jpg",
+			"channel": "Disney Channel HD"
+		},
+		{
+			"img": "Take It Easy",
+			"channel": "Take It Easy"
+		},
+		{
+			"img": "https://superspreekbeurt.nl/wp-content/uploads/2015/11/Nickelodeon.jpg",
+			"channel": "Nickelodeon HD"
+		},
+		{
+			"img": "https://xite.nl/img/xite_logo.png",
+			"channel": "XITE Hits"
+		},
+		{
+			"img": "Arte",
+			"channel": "Arte"
+		},
+		{
+			"img": "Eurostar",
+			"channel": "Eurostar"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1200px-NPO_3_logo_2014.svg.png",
+			"channel": "NPO 3 HD"
+		},
+		{
+			"img": "LOVE.",
+			"channel": "LOVE."
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/15/RTLL_Logo.png",
+			"channel": "RTL Lounge HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png",
+			"channel": "TLC"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Film1.png",
+			"channel": "Film1 On Demand."
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/az/6/68/TV_8.png",
+			"channel": "TV 8"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MTV_Brand_New.svg/1200px-MTV_Brand_New.svg.png",
+			"channel": "MTV Brand New"
+		},
+		{
+			"img": "https://dlprizi2qtumd.cloudfront.net/images/stations/radio-noord-cover.png",
+			"channel": "Radio Noord"
+		},
+		{
+			"img": "Sit Back&Jazz",
+			"channel": "Sit Back&Jazz"
+		},
+		{
+			"img": "MNM",
+			"channel": "MNM"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rijnmond_nieuw_logo.jpg",
+			"channel": "TV Rijnmond"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTL_8_Logo.svg/1200px-RTL_8_Logo.svg.png",
+			"channel": "RTL 8"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/1200px-ARD_Logo_2019.svg.png",
+			"channel": "ARD"
+		},
+		{
+			"img": "https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",
+			"channel": "Eurosport 1"
+		},
+		{
+			"img": "Family7",
+			"channel": "Family7"
+		},
+		{
+			"img": "SET Asia",
+			"channel": "SET Asia"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",
+			"channel": "NPO 1 HD"
+		},
+		{
+			"img": "Ons West Brabant",
+			"channel": "Ons West Brabant"
+		},
+		{
+			"img": "Huisfeestje",
+			"channel": "Huisfeestje"
+		},
+		{
+			"img": "Qmusic Nonstop",
+			"channel": "Qmusic Nonstop"
+		},
+		{
+			"img": "https://nederland.broadbandtvnews.com/wp-content/uploads/2016/07/RTL_Telekids_Logo.png",
+			"channel": "RTL Telekids HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
+			"channel": "Nat Geo WILD HD"
+		},
+		{
+			"img": "SLOS TV",
+			"channel": "SLOS TV"
+		},
+		{
+			"img": "Mezzo",
+			"channel": "Mezzo"
+		},
+		{
+			"img": "Efteling Kids Radio",
+			"channel": "Efteling Kids Radio"
+		},
+		{
+			"img": "NPO Radio 5",
+			"channel": "NPO Radio 5"
+		},
+		{
+			"img": "Radio Gelderland",
+			"channel": "Radio Gelderland"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/ziggosportracing.png",
+			"channel": "Ziggo Sport Racing HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/rtl4hd.png",
+			"channel": "RTL 4 HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/npo2.png",
+			"channel": "NPO 2"
+		},
+		{
+			"img": "https://nhradio.nl/wp-content/uploads/2019/06/NH-Radio-beeldmerk-2017-RGB-WIT-2.png",
+			"channel": "NH Radio"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/discoverychannel.png",
+			"channel": "Discovery HD"
+		},
+		{
+			"img": "BBC Radio 1",
+			"channel": "BBC Radio 1"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/fox.png",
+			"channel": "FOX"
+		},
+		{
+			"img": "RT",
+			"channel": "RT"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/history.png",
+			"channel": "HISTORY HD"
+		},
+		{
+			"img": "SLAM",
+			"channel": "SLAM!"
+		},
+		{
+			"img": "Baby TV",
+			"channel": "Baby TV"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/extremesports.png",
+			"channel": "Extreme Sports Channel"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/omroepbrabant.png",
+			"channel": "Omroep Brabant"
+		},
+		{
+			"img": "Zenderoverzicht",
+			"channel": "Ziggo Zenderoverzicht HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/eurosport1hd.png",
+			"channel": "Eurosport 1 HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/foxsports1.png",
+			"channel": "FOX Sports 1 HD"
+		},
+		{
+			"img": "Ziggo Live",
+			"channel": "Ziggo Live Events"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/fox.png",
+			"channel": "FOX HD"
+		},
+		{
+			"img": "NPO Radio 2",
+			"channel": "NPO Radio 2"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/disneychannelhd.png",
+			"channel": "Disney Channel"
+		},
+		{
+			"img": "WDR3",
+			"channel": "WDR3"
+		},
+		{
+			"img": "Shorts TV",
+			"channel": "Shorts TV HD"
+		},
+		{
+			"img": "SLAM",
+			"channel": "SLAM!"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/investigationdiscovery.png",
+			"channel": "ID"
+		},
+		{
+			"img": "Show TV",
+			"channel": "Show TV"
+		},
+		{
+			"img": "TRT Çocuk",
+			"channel": "TRT Çocuk"
+		},
+		{
+			"img": "BBC",
+			"channel": "BBC Radio 4"
+		},
+		{
+			"img": "Teen Party",
+			"channel": "Teen Party"
+		},
+		{
+			"img": "Erotiek Pakket info",
+			"channel": "Erotiek Pakket info"
+		},
+		{
+			"img": "RNE Radio Uno",
+			"channel": "RNE Radio Uno"
+		},
+		{
+			"img": "https://loemedia.nl/wp-content/uploads/2019/10/omroep-gelderland.jpg",
+			"channel": "TV Gelderland"
+		},
+		{
+			"img": "Habertürk",
+			"channel": "Habertürk"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png",
+			"channel": "NPO 1"
+		},
+		{
+			"img": "Themafeestje",
+			"channel": "Themafeestje"
+		},
+		{
+			"img": "Radio 2 vrt",
+			"channel": "Radio 2 (VRT)"
+		},
+		{
+			"img": "695f09b727c72163fe04c998ade0ca60",
+			"channel": "TRT Turk"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/eurosport2.png",
+			"channel": "Eurosport 2 HD"
+		},
+		{
+			"img": "Ons West Brabant",
+			"channel": "Ons West Brabant"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/BBC_First_Foxtel_logo.svg/1200px-BBC_First_Foxtel_logo.svg.png",
+			"channel": "BBC First HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo-3d.png",
+			"channel": "OUTTV HD"
+		},
+		{
+			"img": "https://www.ndr.de/media/logo276_v-contentxl.jpg",
+			"channel": "NDR1"
+		},
+		{
+			"img": "0655e3b89603bf19dbdf97878a8a3cf6",
+			"channel": "Yoga Flow"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/foxsports6.png",
+			"channel": "FOX Sports 6 HD"
+		},
+		{
+			"img": "https://www.providercheck.nl/upload/202003/1584971423_img_1538.jpg",
+			"channel": "Ziggo Sport Docu HD"
+		},
+		{
+			"img": "noImg",
+			"channel": "Discovery Science HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/1200px-Spike_logo_2015.svg.png",
+			"channel": "Spike"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1200px-TV5_%28logo%29.svg.png",
+			"channel": "TV5 Monde"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png",
+			"channel": "Boomerang"
+		},
+		{
+			"img": "https://www.djfanclub.nl/wp-content/uploads/2011/03/DT_logo_white.2.jpg",
+			"channel": "DanceTrippin HD"
+		},
+		{
+			"img": "PassieXXX",
+			"channel": "PassieXXX"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/d/df/NPO_Politiek_logo.png",
+			"channel": "NPO Politiek"
+		},
+		{
+			"img": "https://www.satellitemagazine.com/content/images/20170528125728_243_ZiggoSport.jpg",
+			"channel": "Ziggo Sport HD"
+		},
+		{
+			"img": "ZuidWest tv",
+			"channel": "ZuidWest TV"
+		},
+		{
+			"img": "Voel Je Goed",
+			"channel": "Voel Je Goed"
+		},
+		{
+			"img": "Stingray Lite TV",
+			"channel": "Stingray Lite TV"
+		},
+		{
+			"img": "Fip",
+			"channel": "Fip"
+		},
+		{
+			"img": "classicnl",
+			"channel": "classicnl"
+		},
+		{
+			"img": "https://www.dw.com/image/19009454_303.jpg",
+			"channel": "Zee TV"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/E%C3%A9n_logo_2019.svg/1200px-E%C3%A9n_logo_2019.svg.png",
+			"channel": "één"
+		},
+		{
+			"img": "Kneiterhard",
+			"channel": "Kneiterhard"
+		},
+		{
+			"img": "https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg",
+			"channel": "Euronews"
+		},
+		{
+			"img": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/2599/brand.gif?itok=E55DxUv0",
+			"channel": "Discovery"
+		},
+		{
+			"img": "noImg",
+			"channel": "Cartoon Network HD"
+		},
+		{
+			"img": "https://lh3.googleusercontent.com/2Akd0-mbn9I4gjospdkQNz2myHmp4hSscMHzTV-EDttsX0tnpqBjWmvq2qJ3qVuhog",
+			"channel": "ARD HD"
+		},
+		{
+			"img": "noImg",
+			"channel": "CNBC Europe"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",
+			"channel": "Fashion TV HD"
+		},
+		{
+			"img": "ONS",
+			"channel": "ONS"
+		},
+		{
+			"img": "L1 Radio",
+			"channel": "L1 Radio"
+		},
+		{
+			"img": "RTL",
+			"channel": "RTL"
+		},
+		{
+			"img": "Radio 538",
+			"channel": "Radio 538"
+		},
+		{
+			"img": "Zeroes Heroes",
+			"channel": "Zeroes Heroes"
+		},
+		{
+			"img": "Mellow Beats",
+			"channel": "Mellow Beats"
+		},
+		{
+			"img": "Urban Vibes",
+			"channel": "Urban Vibes"
+		},
+		{
+			"img": "635a624beee1c740976bdeafc0c87822",
+			"channel": "192TV"
+		},
+		{
+			"img": "https://ichef.bbci.co.uk/images/ic/480xn/p03r0t9m.jpg",
+			"channel": "BBC One HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",
+			"channel": "Animal Planet HD"
+		},
+		{
+			"img": "ed0c04ccdbd269a6679298e1022026d7",
+			"channel": "X-MO"
+		},
+		{
+			"img": "ca3c284c4beafe88444adb82a2d73466",
+			"channel": "Aljazeera English"
+		},
+		{
+			"img": "1750564cf71d37b9a629c17af1295542",
+			"channel": "Penthouse Gold"
+		},
+		{
+			"img": "noImg",
+			"channel": "HISTORY"
+		},
+		{
+			"img": "noImg",
+			"channel": "CNN"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5-2019.png",
+			"channel": "Net5"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veronica-Logo.svg/1200px-Veronica-Logo.svg.png",
+			"channel": "Veronica HD / Disney XD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/ziggosportvoetbal.png",
+			"channel": "Ziggo Sport Voetbal HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/1200px-NPO_Radio_1_logo_2014.svg.png",
+			"channel": "NPO Radio 1"
+		},
+		{
+			"img": "72f7634f1f0a2059d408acd5419053fe",
+			"channel": "All Out Dance"
+		},
+		{
+			"img": "b93d64cfddb38a85b0754301f24a576e",
+			"channel": "1LIVE"
+		},
+		{
+			"img": "505d16500916b1f4302a0dfce5b13211",
+			"channel": "Stingray Classica"
+		},
+		{
+			"img": "90e417d07a362812d416527cf4403b0f",
+			"channel": "WDR"
+		},
+		{
+			"img": "2687fdd1918799940b26c59131a1225e",
+			"channel": "Reggae Feels"
+		},
+		{
+			"img": "1b3137d21cd95d26e9ae03b07c589a0e",
+			"channel": "Nick Music"
+		},
+		{
+			"img": "https://www.broadcastmagazine.nl/wp-content/uploads/2019/11/npo2extra1020.jpg",
+			"channel": "NPO 2 extra"
+		},
+		{
+			"img": "06b180d245b9b5a42c6b44bc9250efcc",
+			"channel": "Sunrise FM"
+		},
+		{
+			"img": "a2d07553690728770c0a090c41b95e40",
+			"channel": "WDR5"
+		},
+		{
+			"img": "ace955541a12241377819d825ef3b985",
+			"channel": "Rock On"
+		},
+		{
+			"img": "029e0155e049337cd8433a92ceecbbee",
+			"channel": "Omroep Flevoland"
+		},
+		{
+			"img": "45ccbfd51d741f0263f6674120a92556",
+			"channel": "TRT Türk"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png",
+			"channel": "MTV Live HD"
+		},
+		{
+			"img": "951a1056b3918f99d6f421315a64850c",
+			"channel": "Omroep Zeeland"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png",
+			"channel": "ZDF HD"
+		},
+		{
+			"img": "d9a6d2d68b785065b81cdf9018c1f39c",
+			"channel": "Radio M Utrecht"
+		},
+		{
+			"img": "https://www.nationalgeographic.nl/images/logo.png",
+			"channel": "National Geographic Channel HD"
+		},
+		{
+			"img": "02988e5739578663493b7729f1922d81",
+			"channel": "Lokale Omroep"
+		},
+		{
+			"img": "d29ab45891a4424b3b4c7f5f9c112154",
+			"channel": "Nicktoons"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/ziggosportselect.png",
+			"channel": "Ziggo Sport Select HD"
+		},
+		{
+			"img": "71a70e598850a83d17072b0e821bac73",
+			"channel": "100% NL TV"
+		},
+		{
+			"img": "dcc026d97e1006b7da5a6b36d74cbceb",
+			"channel": "Stingray DJAZZ"
+		},
+		{
+			"img": "9b1ccc59deb4fd07cc07d930b618decd",
+			"channel": "Secret Circle info"
+		},
+		{
+			"img": "7bc8e3d92f9d8d5a40e262d849ad1843",
+			"channel": "NDR2"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/film1premiere.png",
+			"channel": "Film1 Premiere HD"
+		},
+		{
+			"img": "61083c5a664e9b38c8a0064236326fa3",
+			"channel": "Siempre Latino"
+		},
+		{
+			"img": "a8c57e5a75b4d383caf6f6780300338e",
+			"channel": "Radio West"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/24kitchen.png",
+			"channel": "24Kitchen HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/comedycentral.png",
+			"channel": "Comedy Central HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/comedycentralextra.png",
+			"channel": "Comedy Central Extra"
+		},
+		{
+			"img": "65902d5c70deb9005d4eaca55da76441",
+			"channel": "Straattaal"
+		},
+		{
+			"img": "970a355e373a185fbf2de829edc1f665",
+			"channel": "NDR Kultur"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/foxsports4.png",
+			"channel": "FOX Sports 4 HD"
+		},
+		{
+			"img": "49a0cade5740e4936dd747eeaf4778e6",
+			"channel": "BNR Nieuwsradio"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/foxsports5.png",
+			"channel": "FOX Sports 5 HD"
+		},
+		{
+			"img": "f5ccaa5f3d2605eb2d3f8dbf16b334e7",
+			"channel": "CBS Reality"
+		},
+		{
+			"img": "d96f1a60c50674d81717835cb36deb8c",
+			"channel": "Soul Baby"
+		},
+		{
+			"img": "93432f605732591fa1b6a66ace00991d",
+			"channel": "TRT Müzik"
+		},
+		{
+			"img": "0ca19b60c1729fdc259a8f7d68c3074c",
+			"channel": "Tommy TV"
+		},
+		{
+			"img": "8fa9e4e0bc56dedc12210bf342a13d49",
+			"channel": "Muziek Van Nu"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/nationalgeographichd.png",
+			"channel": "National Geographic Channel"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/sbs6.png",
+			"channel": "SBS6"
+		},
+		{
+			"img": "5f08cae2933b4a13f2cff512cf1f09cc",
+			"channel": "Klara"
+		},
+		{
+			"img": "aec84be335d71a1f9947e7e949888620",
+			"channel": "STAR Plus"
+		},
+		{
+			"img": "10546a6391696f5be659701cff6cb013",
+			"channel": "RTV-7"
+		},
+		{
+			"img": "30f7cae3472df5cc9017e1e8997d865d",
+			"channel": "Euro D"
+		},
+		{
+			"img": "7518df6341168e0f55e20f3af1900380",
+			"channel": "VH1 Classic"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/investigationdiscovery.png",
+			"channel": "ID HD"
+		},
+		{
+			"img": "aa2bb0e4c9c0960893cb0251469e4f68",
+			"channel": "MTV Music 24"
+		},
+		{
+			"img": "1de23765e8f1c7a8d58e854f3723b983",
+			"channel": "BBC Radio 2"
+		},
+		{
+			"img": "36f874e5edde74c326b1644b885dfbde",
+			"channel": "TV Oost"
+		},
+		{
+			"img": "3574c4652fcc80456333241500cbe346",
+			"channel": "STAR Gold"
+		},
+		{
+			"img": "5f16e96534ac94a40beff4dd3edcfc6f",
+			"channel": "POP NL"
+		},
+		{
+			"img": "34815b666d69a51bba648c0aa0ba690a",
+			"channel": "NPO Radio 4"
+		},
+		{
+			"img": "d8b57ee6c457d17750feb1f3d594cd62",
+			"channel": "Film1 Family HD"
+		},
+		{
+			"img": "5644b0667479de12ce56ee4ee2e57e90",
+			"channel": "TV Drenthe"
+		},
+		{
+			"img": "e078cae6f35e16890a2a30db3b3d5a46",
+			"channel": "In De Kroeg"
+		},
+		{
+			"img": "7d770c67f5bb0bd22ea5c6479fa46add",
+			"channel": "Radio Drenthe"
+		},
+		{
+			"img": "f3da986788d4cc9cae27c478ef72a27f",
+			"channel": "Film1 Action HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/nickelodeon.png",
+			"channel": "Nickelodeon"
+		},
+		{
+			"img": "1eb641e9f65ab2d34286487d2f295872",
+			"channel": "Sat. 1"
+		},
+		{
+			"img": "f165b26946678b676dbc5c074c3683f0",
+			"channel": "Secret Circle"
+		},
+		{
+			"img": "8d51106abd7c5bab97a2feaaa0d70a95",
+			"channel": "Back 2 The 90s"
+		},
+		{
+			"img": "80eb52eac241354def5c57963d9e2ba6",
+			"channel": "Lokale Omroep"
+		},
+		{
+			"img": "f83a85ea540d5726cf36eb9fd4ac7fe3",
+			"channel": "TV West"
+		},
+		{
+			"img": "8d77f06a79ff2d638f564dbd06a4c82d",
+			"channel": "WDR4"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/sbs9.png",
+			"channel": "SBS9"
+		},
+		{
+			"img": "4226266bf6696fc28ee5e15c08ca45bd",
+			"channel": "Ketnet"
+		},
+		{
+			"img": "389d27eb8a2a0db0661094e7b283a04e",
+			"channel": "Indie Wave"
+		},
+		{
+			"img": "eee5c8eb3a9d42d690e252d0e11db866",
+			"channel": "BBC World Service"
+		},
+		{
+			"img": "16dafe6bf5e5df9aa7c1f7d8d8e52416",
+			"channel": "TV Noord"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/comedycentral.png",
+			"channel": "Comedy Central"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/mtv.png",
+			"channel": "MTV"
+		},
+		{
+			"img": "7fe4476d5ea17a5fb20ff22984aecfa7",
+			"channel": "Radio Rijnmond"
+		},
+		{
+			"img": "2fcf4a6e6aac4b401783b06669a0d804",
+			"channel": "2M"
+		},
+		{
+			"img": "8921896ea58261dbf0ed79996e8312ee",
+			"channel": "Studio Brussel"
+		},
+		{
+			"img": "5294a8ee23b01188a5eee8f7e31f142a",
+			"channel": "Pebble TV"
+		},
+		{
+			"img": "2bd653ef70c7ffd96c8038dd24f12ab2",
+			"channel": "Testbeeld"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/npo3.png",
+			"channel": "NPO 3"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/rtlz.png",
+			"channel": "RTL Z"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/rtl5.png",
+			"channel": "RTL 5"
+		},
+		{
+			"img": "https://ichef.bbci.co.uk/images/ic/480xn/p03r0t9m.jpg",
+			"channel": "BBC One"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/rtl7.png",
+			"channel": "RTL 7 HD"
+		},
+		{
+			"img": "fbd342717b9cd30cd5d3bc2a11237e46",
+			"channel": "Twist Again"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/tlc.png",
+			"channel": "TLC HD"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/cartoonnetworkhd.png",
+			"channel": "Cartoon Network"
+		},
+		{
+			"img": "Ziggo Dome",
+			"channel": "Ziggo Dome"
+		},
+		{
+			"img": "c1643072ad9268e4dae6c20a41c4cf75",
+			"channel": "NDR"
+		},
+		{
+			"img": "369a57f213a8a3e7aa9d053ee04b53c4",
+			"channel": "Jazzy Dinner"
+		},
+		{
+			"img": "f3c4be72fc3f8b4461617b7dc995b476",
+			"channel": "24Kitchen"
+		},
+		{
+			"img": "1218e07253e44f3f7c785e85f28981f7",
+			"channel": "SLOS FM"
+		},
+		{
+			"img": "9916e8f283e1d732c43898fca9aec99a",
+			"channel": "Omroep Brabant  TV"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/foxsports2.png",
+			"channel": "FOX Sports 2 HD"
+		},
+		{
+			"img": "dc774874f343cb71cf4b2560066d5302",
+			"channel": "TV Krant West-Brabant"
+		},
+		{
+			"img": "b59c98f446b3101389f1115e9aaa6cf2",
+			"channel": "XITE"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/ziggosportextra1.png",
+			"channel": "Ziggo Sport Extra HD"
+		},
+		{
+			"img": "0d5f4a75b4ab053128fac29146fe31f1",
+			"channel": "Omrop Fryslân"
+		},
+		{
+			"img": "6d4a0b76fcb2242f6d69a34ff3cf76c7",
+			"channel": "BBC World News"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/npo2.png",
+			"channel": "NPO 2 HD"
+		},
+		{
+			"img": "https://ichef.bbci.co.uk/corporate2/images/width/live/p0/0j/zp/p00jzpwr.jpg/624",
+			"channel": "BBC Two"
+		},
+		{
+			"img": "bf6e4d77c184ed41f152e67adc5adaa7",
+			"channel": "Groot Nieuws Radio"
+		},
+		{
+			"img": "61e9cf779a7477184c1a0f129d8dba85",
+			"channel": "Sublime"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/rtl4.png",
+			"channel": "RTL 4"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/net5.png",
+			"channel": "Net5 HD"
+		},
+		{
+			"img": "cfbdabf810989baeab2a4555398ddcb2",
+			"channel": "Workout!"
+		},
+		{
+			"img": "23e55d796c8bd2cf3aa4b5041644439d",
+			"channel": "Omroep Zeeland"
+		},
+		{
+			"img": "9bdd97f91d9d87f5fb63e9f7d72308c1",
+			"channel": "RADIONL"
+		},
+		{
+			"img": "879c7afaa8ff343e949f9f4686c835f1",
+			"channel": "RADIONL"
+		},
+		{
+			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMAmvUzwKNZaa1Dkfwz4qqsFt82DkEdYuPxirPERxu9OlVMHFv&usqp=CAU",
+			"channel": "Ziggo TV HD"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NPO_Nieuws_logo.png/1200px-NPO_Nieuws_logo.png",
+			"channel": "NPO Nieuws"
+		},
+		{
+			"img": "5ec0e7fc93f6e686bd9e629a0b34fab9",
+			"channel": "NPO 1 extra"
+		},
+		{
+			"img": "dc514efd18f5bb1cd1e2e180e85e6b67",
+			"channel": "WDR2"
+		},
+		{
+			"img": "f79c967d6873ca98cee75031f956ac9d",
+			"channel": "80s Flashback"
+		},
+		{
+			"img": "54a7bafd1a9b68392c48ef49b3b1b1d6",
+			"channel": "MvH Hard"
+		},
+		{
+			"img": "6246e8fdd325f5d418090fe05e703fb7",
+			"channel": "Nick Jr."
+		},
+		{
+			"img": "5e21b3fec198aa8c41015eabeedbc30c",
+			"channel": "Lokale Omroep radio"
+		},
+		{
+			"img": "https://tvmannen.es/iptv_channels/2258122_files/mtv.png",
+			"channel": "MTV HD"
+		},
+		{
+			"img": "813bdc7e1ca4fe2226ace0567b55be07",
+			"channel": "Lokale Omroep"
+		},
+		{
+			"img": "a89d18ff33fd9b26089a1ac459e779d0",
+			"channel": "Radio Oost"
+		},
+		{
+			"img": "6bb1407f8b1a19dcddad4ebdb685de23",
+			"channel": "TV538"
+		},
+		{
+			"img": "1e99687f3003d213a7bb968f8346530e",
+			"channel": "XITE HD"
+		},
+		{
+			"img": "44a6cc7f588470136c87cd9f506d4208",
+			"channel": "Zee Cinema"
+		},
+		{
+			"img": "b3b9cdff4ad8f2c3af88f0ceb4555efd",
+			"channel": "Evil Angel"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/1200px-VRT_Canvas_logo.svg.png",
+			"channel": "Canvas"
+		}
+	]
+}
