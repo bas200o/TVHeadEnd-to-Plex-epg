@@ -24,7 +24,7 @@ public  class ChannelParser {
 
             for (int j = 0; j < imgUrlJSON.length(); j++)
             {
-                JSONObject url = imgUrlJSON.getJSONObject(i);
+                JSONObject url = imgUrlJSON.getJSONObject(j);
                 if (channelName.equals(url.getString("channel")) && url.getString("img").contains("http"))
                 {
                     channelImg = url.getString("img");
