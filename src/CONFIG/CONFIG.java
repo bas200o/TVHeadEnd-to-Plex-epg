@@ -14,7 +14,7 @@ public class CONFIG
     /**
      * filepath to output xml file
      */
-    public static final String outputPath = "d:/kek/channels.xml";
+    public static final String outputPath = "/var/www/html/jijbentzacht/channels.xml";
 
     /**
      *  URL to get a json array with objects of the channel name and a url to a icon.
