@@ -56,11 +56,15 @@ public class Main {
 
             for (int j = 0; j < jijbentzachtJSON.length(); j++) {
 
-                JSONObject jijbentzachtObject = jijbentzachtJSON.getJSONObject(i);
-                if (jijbentzachtObject.getString("channel").equals(channelName) &&
-                        jijbentzachtObject.getString("img").contains("http")) {
+                //JSONObject jijbentzachtObject = jijbentzachtJSON.getJSONObject(i);
+                String name = jijbentzachtJSON.getJSONObject(j).getString("channel");
+                String img = jijbentzachtJSON.getJSONObject(j).getString("img");
 
-                    channelImg = jijbentzachtObject.getString("img");
+                System.out.println(j + " " + name + "-" + channelName);
+                if (name.equals(channelName) &&
+                        img.contains("http")) {
+
+                    channelImg = img;
                 }
             }
 
@@ -128,7 +132,7 @@ public class Main {
         }
 
         // sorting arraylist to get the channelnumbers in correct order in plex
-        channelArrayList.sort(Channel::compareTo);
+        //channelArrayList.sort(Channel::compareTo);
 
         // make xml file
         xmlParcer(channelArrayList);
