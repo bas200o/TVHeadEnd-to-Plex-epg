@@ -11,6 +11,8 @@ import org.dom4j.io.XMLWriter;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.*;
+
 
 public class TVXMLParser {
 
@@ -36,9 +38,20 @@ public class TVXMLParser {
             for (Event e : c.getEvents()) {
 
                 Element program = document.addElement("programme");
-                program.addAttribute("start", e.getStartTime() + " +0200");
-                program.addAttribute("stop", e.getEndTime() + " +0200");
+
+                if(TimeZone.getDefault().inDaylightTime( new Date())) {
+
+                    program.addAttribute("start", e.getStartTime() + " +0200");
+                    program.addAttribute("stop", e.getEndTime() + " +0200");
+                }
+                else
+                {
+                    program.addAttribute("start", e.getStartTime() + " +0100");
+                    program.addAttribute("stop", e.getEndTime() + " +0100");
+                }
+
                 program.addAttribute("channel", c.getChannelNumber() + "");
+
 
                 program.addElement("title")
                         .addAttribute("lang", "dut")
@@ -52,6 +65,11 @@ public class TVXMLParser {
         }
 
         try {
+            File file = new File(CONFIG.outputPath);
+            if (!file.exists())
+            {
+                file.mkdirs();
+            }
             OutputStream outputStream = new FileOutputStream(CONFIG.outputPath);
 
             String header = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n" +
