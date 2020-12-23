@@ -1,4 +1,7 @@
-# TVHeadEnd to Plex epg
+# DEPRECATED TVHeadEnd to Plex epg
+
+check this link for more info 
+https://forums.plex.tv/t/live-tv-epg-the-update-you-ve-been-waiting-for/660738
 
 Small Java based application to convert TVHeadend EPG to Plex XMLTV format
 As off right now pictures by default work with only ziggo up to channel 29.
